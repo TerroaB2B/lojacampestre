@@ -1,0 +1,7 @@
+{
+  "name": "TERROÁ - A Essência da Raiz",
+  "description": "Distribuidora B2B de produtos naturais e essenciais. Soluções em atacado e varejo para o seu negócio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
